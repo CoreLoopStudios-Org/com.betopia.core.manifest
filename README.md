@@ -6,7 +6,7 @@ A small, generic ScriptableObject-based manifest that maps assets to stable GUID
 
 In Unity **Package Manager** → **Add package from git URL...**:
 
-- `https://github.com/<owner>/<repo>.git?path=/Packages/com.betopia.core.manifest`
+- `https://github.com/<owner>/com.betopia.core.manifest.git`
 
 ## Basic usage
 
