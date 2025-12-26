@@ -1,0 +1,15 @@
+{
+  "name": "com.coreloop.assetmanifest",
+  "version": "0.1.0",
+  "displayName": "Coreloop AssetManifest",
+  "description": "Generic ScriptableObject manifest mapping UnityEngine.Object assets to stable GUID strings.",
+  "unity": "6000.0",
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "TextAsset Manifest Sample",
+      "description": "Example of using AssetManifest<TextAsset> and reading a bundled TextAsset.",
+      "path": "Samples~/TextAssetManifestSample"
+    }
+  ]
+}
