@@ -41,8 +41,6 @@ namespace Coreloop.AssetManifest
                 if (!_assetToGuid.ContainsKey(entry.asset)) _assetToGuid.Add(entry.asset, entry.guid);
             }
         }
-
-        private void Reset() => Initialize();
     }
 
     public class ReadOnlyAttribute : PropertyAttribute { }
