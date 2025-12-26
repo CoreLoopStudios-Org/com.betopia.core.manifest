@@ -1,9 +1,8 @@
 using System;
-using Coreloop.AssetManifest;
 using UnityEditor;
 using UnityEngine;
 
-namespace Coreloop.AssetManifest.Editor
+namespace Coreloop.AssetManifest.Editor.Editor
 {
     public static class AssetManifestGuidSyncUtility
     {

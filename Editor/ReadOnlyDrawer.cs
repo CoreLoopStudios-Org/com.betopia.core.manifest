@@ -1,8 +1,7 @@
 using UnityEditor;
 using UnityEngine;
-using Coreloop.AssetManifest;
 
-namespace Coreloop.AssetManifest.Editor
+namespace Coreloop.AssetManifest.Editor.Editor
 {
     [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]
     public class ReadOnlyDrawer : PropertyDrawer
